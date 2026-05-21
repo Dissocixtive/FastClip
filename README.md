@@ -34,7 +34,7 @@ python FastClip.py
 ```
 
 > [!WARNING]
-> Программа может потреблять до 10 гб RAM при средних настройках (30 fps |  medium)
+> Программа может потреблять около 10 гб RAM при средних настройках (30 fps |  medium)
 
 
 ### ENGLISH
@@ -67,4 +67,4 @@ python FastClip.py
 ``` 
 
 > [!WARNING] 
-> The program can consume up to 10 GB of RAM at medium settings (30 fps | medium)
+> The program can consume about 10 GB of RAM at average settings (30 fps | medium)
